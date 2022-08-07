@@ -4,7 +4,7 @@ As a part of my self-directed learning on Neural Networks and Deep learning, I d
 
 In this script I build and train 3 different types of Networks (2 Convolutional Neural Networks and 1 Multi-Layer Perceptron) on the Natural Images dataset and test their efficacy. At the end of the project, we conclude with a short fun activity where I apply the trained models to a 25-image dataset made up of images of my friends, some of their pets, famous cats & dogs and famous individuals in society.
 
-Data Description:
+<b>Data Description<b>:
 
 The original dataset contains 6,899 images from 8 distinct classes compiled from various sources (see Acknowledgements). The original classes include airplane, car, cat, dog, flower, fruit, motorbike and person. Due to limitations on my computing power, I decided to limit the dataset to only the images that fell under the class dog, person & cat.
 
